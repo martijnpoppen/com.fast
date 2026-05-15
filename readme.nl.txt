@@ -1,0 +1,1 @@
+Fast.com is een gratis, advertentievrije internetsnelheidstest die is gemaakt door Netflix. Het meet automatisch je huidige downloadsnelheid, zodat je snel kunt vaststellen of je internetprovider (ISP) de bandbreedte levert waarvoor je betaalt, met name voor videostreaming.

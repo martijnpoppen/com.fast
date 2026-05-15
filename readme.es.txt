@@ -1,0 +1,1 @@
+Fast.com es una herramienta gratuita y sin anuncios para medir la velocidad de Internet, creada por Netflix. Mide automáticamente tu velocidad de descarga actual para ayudarte a comprobar rápidamente si tu proveedor de Internet (ISP) está entregando el ancho de banda que pagas, especialmente para la transmisión de video.

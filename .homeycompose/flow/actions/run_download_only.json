@@ -1,0 +1,33 @@
+{
+  "id": "run_download_only",
+  "title": {
+    "en": "Run speedtest (only download)",
+    "nl": "Snelheidstest uitvoeren (alleen downloaden)",
+    "de": "Geschwindigkeitstest ausführen (nur Download)",
+    "fr": "Exécuter le test de vitesse (téléchargement uniquement)",
+    "it": "Esegui il test di velocità (solo download)",
+    "sv": "Kör hastighetstest (endast nedladdning)",
+    "no": "Kjør hastighetstest (kun nedlasting)",
+    "es": "Ejecutar prueba de velocidad (solo descarga)",
+    "da": "Kør hastighedstest (kun download)",
+    "ru": "Запустить тест скорости (только загрузка)",
+    "pl": "Uruchom test prędkości (tylko pobieranie)",
+    "ko": "속도 테스트 실행 (다운로드만)",
+    "ar": "تشغيل اختبار السرعة (تنزيل فقط)"
+  },
+  "titleFormatted": {
+    "en": "Run speedtest (only download)",
+    "nl": "Snelheidstest uitvoeren (alleen downloaden)",
+    "de": "Geschwindigkeitstest ausführen (nur Download)",
+    "fr": "Exécuter le test de vitesse (téléchargement uniquement)",
+    "it": "Esegui il test di velocità (solo download)",
+    "sv": "Kör hastighetstest (endast nedladdning)",
+    "no": "Kjør hastighetstest (kun nedlasting)",
+    "es": "Ejecutar prueba de velocidad (solo descarga)",
+    "da": "Kør hastighedstest (kun download)",
+    "ru": "Запустить тест скорости (только загрузка)",
+    "pl": "Uruchom test prędkości (tylko pobieranie)",
+    "ko": "속도 테스트 실행 (다운로드만)",
+    "ar": "تشغيل اختبار السرعة (تنزيل فقط)"
+  }
+}

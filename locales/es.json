@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "already_running": "Ya hay un test de velocidad en curso, espera a que termine.",
+    "no_result_yet": "Aún no se ha ejecutado ningún test de velocidad. Usa primero la acción «Ejecutar test de velocidad».",
+    "test_failed": "El test de velocidad ha fallado: __reason__"
+  }
+}

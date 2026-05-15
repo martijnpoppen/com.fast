@@ -1,0 +1,135 @@
+{
+  "id": "speedtest_completed",
+  "title": {
+    "en": "Speedtest completed",
+    "nl": "Snelheidstest voltooid",
+    "de": "Geschwindigkeitstest abgeschlossen",
+    "fr": "Test de vitesse terminé",
+    "it": "Test di velocità completato",
+    "sv": "Hastighetstest slutfört",
+    "no": "Hastighetstest fullført",
+    "es": "Prueba de velocidad completada",
+    "da": "Hastighedstest afsluttet",
+    "ru": "Тест скорости завершен",
+    "pl": "Test prędkości zakończony",
+    "ko": "속도 테스트 완료",
+    "ar": "اكتمل اختبار السرعة"
+  },
+  "titleFormatted": {
+    "en": "Speedtest completed",
+    "nl": "Snelheidstest voltooid",
+    "de": "Geschwindigkeitstest abgeschlossen",
+    "fr": "Test de vitesse terminé",
+    "it": "Test di velocità completato",
+    "sv": "Hastighetstest slutfört",
+    "no": "Hastighetstest fullført",
+    "es": "Prueba de velocidad completada",
+    "da": "Hastighedstest afsluttet",
+    "ru": "Тест скорости завершен",
+    "pl": "Test prędkości zakończony",
+    "ko": "속도 테스트 완료",
+    "ar": "اكتمل اختبار السرعة"
+  },
+  "tokens": [
+    {
+      "name": "download",
+      "type": "number",
+      "title": {
+        "en": "Download speed",
+        "nl": "Downloadsnelheid",
+        "de": "Download-Geschwindigkeit",
+        "fr": "Vitesse de téléchargement",
+        "it": "Velocità di download",
+        "sv": "Nedladdningshastighet",
+        "no": "Nedlastingshastighet",
+        "es": "Velocidad de descarga",
+        "da": "Downloadhastighed",
+        "ru": "Скорость загрузки",
+        "pl": "Prędkość pobierania",
+        "ko": "다운로드 속도",
+        "ar": "سرعة التنزيل"
+      },
+      "example": 100
+    },
+    {
+      "name": "upload",
+      "type": "number",
+      "title": {
+        "en": "Upload speed",
+        "nl": "Uploadsnelheid",
+        "de": "Upload-Geschwindigkeit",
+        "fr": "Vitesse de téléversement",
+        "it": "Velocità di upload",
+        "sv": "Uppladdningshastighet",
+        "no": "Opplastingshastighet",
+        "es": "Velocidad de subida",
+        "da": "Uploadhastighed",
+        "ru": "Скорость выгрузки",
+        "pl": "Prędkość wysyłania",
+        "ko": "업로드 속도",
+        "ar": "سرعة الرفع"
+      },
+      "example": 20
+    },
+    {
+      "name": "speedType",
+      "type": "string",
+      "title": {
+        "en": "Speed type (Mbps/Gbps)",
+        "nl": "Snelheidstype (Mbps/Gbps)",
+        "de": "Geschwindigkeitstyp (Mbps/Gbps)",
+        "fr": "Type de vitesse (Mbps/Gbps)",
+        "it": "Tipo di velocità (Mbps/Gbps)",
+        "sv": "Hastighetstyp (Mbps/Gbps)",
+        "no": "Hastighetstype (Mbps/Gbps)",
+        "es": "Tipo de velocidad (Mbps/Gbps)",
+        "da": "Hastighedstype (Mbps/Gbps)",
+        "ru": "Тип скорости (Mbps/Gbps)",
+        "pl": "Typ prędkości (Mbps/Gbps)",
+        "ko": "속도 유형 (Mbps/Gbps)",
+        "ar": "نوع السرعة (ميغابت في الثانية/جيجابت في الثانية)"
+      },
+      "example": "Mbps"
+    },
+    {
+      "name": "location",
+      "type": "string",
+      "title": {
+        "en": "Location",
+        "nl": "Locatie",
+        "de": "Ort",
+        "fr": "Emplacement",
+        "it": "Posizione",
+        "sv": "Plats",
+        "no": "Sted",
+        "es": "Ubicación",
+        "da": "Placering",
+        "ru": "Местоположение",
+        "pl": "Lokalizacja",
+        "ko": "위치",
+        "ar": "الموقع"
+      },
+      "example": "Amsterdam, NL"
+    },
+    {
+      "name": "timestamp",
+      "type": "string",
+      "title": {
+        "en": "Timestamp",
+        "nl": "Tijdstip",
+        "de": "Zeitstempel",
+        "fr": "Horodatage",
+        "it": "Data e ora",
+        "sv": "Tidsstämpel",
+        "no": "Tidsstempel",
+        "es": "Marca de tiempo",
+        "da": "Tidsstempel",
+        "ru": "Метка времени",
+        "pl": "Znacznik czasu",
+        "ko": "타임스탬프",
+        "ar": "الطابع الزمني"
+      },
+      "example": "2024-01-01T12:00:00Z"
+    }
+  ]
+}

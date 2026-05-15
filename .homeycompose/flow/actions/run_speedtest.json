@@ -1,0 +1,33 @@
+{
+  "id": "run_speedtest",
+  "title": {
+    "en": "Run speedtest",
+    "nl": "Snelheidstest uitvoeren",
+    "de": "Geschwindigkeitstest ausführen",
+    "fr": "Exécuter le test de vitesse",
+    "it": "Esegui il test di velocità",
+    "sv": "Kör hastighetstest",
+    "no": "Kjør hastighetstest",
+    "es": "Ejecutar prueba de velocidad",
+    "da": "Kør hastighedstest",
+    "ru": "Запустить тест скорости",
+    "pl": "Uruchom test prędkości",
+    "ko": "속도 테스트 실행",
+    "ar": "تشغيل اختبار السرعة"
+  },
+  "titleFormatted": {
+    "en": "Run speedtest",
+    "nl": "Snelheidstest uitvoeren",
+    "de": "Geschwindigkeitstest ausführen",
+    "fr": "Exécuter le test de vitesse",
+    "it": "Esegui il test di velocità",
+    "sv": "Kör hastighetstest",
+    "no": "Kjør hastighetstest",
+    "es": "Ejecutar prueba de velocidad",
+    "da": "Kør hastighedstest",
+    "ru": "Запустить тест скорости",
+    "pl": "Uruchom test prędkości",
+    "ko": "속도 테스트 실행",
+    "ar": "تشغيل اختبار السرعة"
+  }
+}

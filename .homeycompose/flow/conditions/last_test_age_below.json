@@ -1,0 +1,54 @@
+{
+  "title": {
+    "en": "Last speedtest age less than ? minutes",
+    "nl": "Leeftijd van laatste snelheidstest minder dan ? minuten",
+    "de": "Alter des letzten Geschwindigkeitstests unter ? Minuten",
+    "fr": "Âge du dernier test de vitesse inférieur à ? minutes",
+    "it": "Età dell'ultimo test di velocità inferiore a ? minuti",
+    "sv": "Senaste hastighetstestets ålder under ? minuter",
+    "no": "Siste hastighetstest alder under ? minutter",
+    "es": "Edad del último test de velocidad por debajo de ? minutos",
+    "da": "Sidste hastighedstest alder under ? minutter",
+    "ru": "Возраст последнего теста скорости ниже ? минут",
+    "pl": "Wiek ostatniego testu prędkości poniżej ? minut",
+    "ko": "마지막 속도 테스트 나이 ?분 미만",
+    "ar": "عمر اختبار السرعة الأخير أقل من ? دقيقة"
+  },
+  "titleFormatted": {
+    "en": "Last speedtest age less than [[age]] minutes",
+    "nl": "Leeftijd van laatste snelheidstest minder dan [[age]] minuten",
+    "de": "Alter des letzten Geschwindigkeitstests weniger als [[age]] Minuten",
+    "fr": "Âge du dernier test de vitesse inférieur à [[age]] minutes",
+    "it": "Età dell'ultimo test di velocità inferiore a [[age]] minuti",
+    "sv": "Senaste hastighetstestets ålder mindre än [[age]] minuter",
+    "no": "Siste hastighetstest alder mindre enn [[age]] minutter",
+    "es": "Edad del último test de velocidad menor a [[age]] minutos",
+    "da": "Sidste hastighedstest alder mindre end [[age]] minutter",
+    "ru": "Возраст последнего теста скорости меньше [[age]] минут",
+    "pl": "Wiek ostatniego testu prędkości mniejszy niż [[age]] minut",
+    "ko": "마지막 속도 테스트 나이 [[age]]분 미만",
+    "ar": "عمر اختبار السرعة الأخير أقل من [[age]] دقيقة"
+  },
+  "args": [
+    {
+      "name": "age",
+      "type": "number",
+      "title": {
+        "en": "Age in minutes",
+        "nl": "Leeftijd in minuten",
+        "de": "Alter in Minuten",
+        "fr": "Âge en minutes",
+        "it": "Età in minuti",
+        "sv": "Ålder i minuter",
+        "no": "Alder i minutter",
+        "es": "Edad en minutos",
+        "da": "Alder i minutter",
+        "ru": "Возраст в минутах",
+        "pl": "Wiek w minutach",
+        "ko": "나이(분)",
+        "ar": "العمر بالدقائق"
+      },
+      "example": 60
+    }
+  ]
+}  

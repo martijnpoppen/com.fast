@@ -1,0 +1,57 @@
+{
+    "title": {
+        "en": "Location is",
+        "nl": "Locatie is",
+        "de": "Ort ist",
+        "fr": "L'emplacement est",
+        "it": "La posizione è",
+        "sv": "Platsen är",
+        "no": "Stedet er",
+        "es": "La ubicación es",
+        "da": "Placeringen er",
+        "ru": "Местоположение",
+        "pl": "Lokalizacja jest",
+        "ko": "위치가",
+        "ar": "الموقع هو"
+    },
+    "titleFormatted": {
+        "en": "Location !{{is|is not}} [[location]]",
+        "nl": "Locatie !{{is|is niet}} [[location]]",
+        "de": "Ort !{{ist|ist nicht}} [[location]]",
+        "fr": "L'emplacement !{{est|n'est pas}} [[location]]",
+        "it": "La posizione !{{è|non è}} [[location]]",
+        "sv": "Platsen !{{är|är inte}} [[location]]",
+        "no": "Stedet !{{er|er ikke}} [[location]]",
+        "es": "La ubicación !{{es|no es}} [[location]]",
+        "da": "Placeringen !{{er|er ikke}} [[location]]",
+        "ru": "Местоположение !{{является|не является}} [[location]]",
+        "pl": "Lokalizacja !{{jest|nie jest}} [[location]]",
+        "ko": "위치 !{{입니다|아닙니다}} [[location]]",
+        "ar": "الموقع !{{هو|ليس}} [[location]]"
+    },
+    "args": [
+        {
+            "name": "location",
+            "type": "text",
+            "title": {
+                "en": "Location",
+                "nl": "Locatie",
+                "de": "Ort",
+                "fr": "Emplacement",
+                "it": "Posizione",
+                "sv": "Plats",
+                "no": "Sted",
+                "es": "Ubicación",
+                "da": "Placering",
+                "ru": "Местоположение",
+                "pl": "Lokalizacja",
+                "ko": "위치",
+                "ar": "الموقع"
+            },
+            "example": "Amsterdam, NL"  
+        }
+    ],
+    "platforms": [
+        "local"
+    ]
+}

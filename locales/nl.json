@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "already_running": "Er loopt al een snelheidstest, wacht tot deze klaar is.",
+    "no_result_yet": "Er is nog geen snelheidstest uitgevoerd. Gebruik eerst de actie 'Snelheidstest uitvoeren'.",
+    "test_failed": "De snelheidstest is mislukt: __reason__"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "1.1.0": {
+    "en": "NEW: app release"
+  },
+  "1.1.1": {
+    "en": "NEW: app release"
+  },
+  "1.2.0": {
+    "en": "NEW: add more cards"
+  },
+  "1.2.1": {
+    "en": "tranlsations"
+  },
+  "1.2.2": {
+    "en": "NEW: translations"
+  },
+  "1.3.0": {
+    "en": " NEW: add topic and links"
+  },
+  "1.3.1": {
+    "en": "FIX: app image"
+  },
+  "1.3.2": {
+    "en": "FIX: readme"
+  }
+}

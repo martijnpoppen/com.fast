@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "already_running": "Test prędkości już trwa, poczekaj na jego zakończenie.",
+    "no_result_yet": "Nie wykonano jeszcze żadnego testu prędkości. Najpierw użyj akcji „Uruchom test prędkości”.",
+    "test_failed": "Test prędkości nie powiódł się: __reason__"
+  }
+}

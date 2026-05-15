@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "already_running": "Ein Geschwindigkeitstest läuft bereits, bitte warte, bis er abgeschlossen ist.",
+    "no_result_yet": "Es wurde noch kein Geschwindigkeitstest durchgeführt. Verwende zuerst die Aktion „Geschwindigkeitstest ausführen“.",
+    "test_failed": "Der Geschwindigkeitstest ist fehlgeschlagen: __reason__"
+  }
+}

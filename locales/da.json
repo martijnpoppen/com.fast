@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "already_running": "Der kører allerede en hastighedstest, vent indtil den er færdig.",
+    "no_result_yet": "Der er endnu ikke kørt en hastighedstest. Brug først handlingen 'Kør hastighedstest'.",
+    "test_failed": "Hastighedstesten mislykkedes: __reason__"
+  }
+}

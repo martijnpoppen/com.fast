@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "already_running": "A speed test is already running, please wait for it to finish.",
+    "no_result_yet": "No speed test has been run yet. Use the 'Run speedtest' action first.",
+    "test_failed": "The speed test failed: __reason__"
+  }
+}

@@ -1,0 +1,1 @@
+Fast.com is a free, ad-free internet speed test tool created by Netflix. It automatically measures your current download speed to help you quickly determine if your Internet Service Provider (ISP) is delivering the bandwidth you are paying for, especially for video streaming.

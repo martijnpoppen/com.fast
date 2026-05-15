@@ -1,0 +1,9 @@
+{
+  "name": "com.fast",
+  "version": "1.0.0",
+  "description": "Fast.com Speedtest for Homey",
+  "main": "app.js",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}

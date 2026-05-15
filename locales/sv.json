@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "already_running": "Ett hastighetstest pågår redan, vänta tills det är klart.",
+    "no_result_yet": "Inget hastighetstest har körts ännu. Använd åtgärden 'Kör hastighetstest' först.",
+    "test_failed": "Hastighetstestet misslyckades: __reason__"
+  }
+}

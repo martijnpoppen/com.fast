@@ -1,0 +1,33 @@
+{
+  "id": "run_upload_only",
+  "title": {
+    "en": "Run speedtest (only upload)",
+    "nl": "Snelheidstest uitvoeren (alleen uploaden)",
+    "de": "Geschwindigkeitstest ausführen (nur Upload)",
+    "fr": "Exécuter le test de vitesse (téléversement uniquement)",
+    "it": "Esegui il test di velocità (solo upload)",
+    "sv": "Kör hastighetstest (endast uppladdning)",
+    "no": "Kjør hastighetstest (kun opplasting)",
+    "es": "Ejecutar prueba de velocidad (solo subida)",
+    "da": "Kør hastighedstest (kun upload)",
+    "ru": "Запустить тест скорости (только выгрузка)",
+    "pl": "Uruchom test prędkości (tylko wysyłanie)",
+    "ko": "속도 테스트 실행 (업로드만)",
+    "ar": "تشغيل اختبار السرعة (رفع فقط)"
+  },
+  "titleFormatted": {
+    "en": "Run speedtest (only upload)",
+    "nl": "Snelheidstest uitvoeren (alleen uploaden)",
+    "de": "Geschwindigkeitstest ausführen (nur Upload)",
+    "fr": "Exécuter le test de vitesse (téléversement uniquement)",
+    "it": "Esegui il test di velocità (solo upload)",
+    "sv": "Kör hastighetstest (endast uppladdning)",
+    "no": "Kjør hastighetstest (kun opplasting)",
+    "es": "Ejecutar prueba de velocidad (solo subida)",
+    "da": "Kør hastighedstest (kun upload)",
+    "ru": "Запустить тест скорости (только выгрузка)",
+    "pl": "Uruchom test prędkości (tylko wysyłanie)",
+    "ko": "속도 테스트 실행 (업로드만)",
+    "ar": "تشغيل اختبار السرعة (رفع فقط)"
+  }
+}

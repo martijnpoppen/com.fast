@@ -1,0 +1,92 @@
+{
+  "title": {
+    "en": "Speedtype is (Mbps/Gbps)",
+    "nl": "Snelheidstype is (Mbps/Gbps)",
+    "de": "Geschwindigkeitstyp ist (Mbps/Gbps)",
+    "fr": "Type de vitesse est (Mbps/Gbps)",
+    "it": "Tipo di velocità è (Mbps/Gbps)",
+    "sv": "Hastighetstyp är (Mbps/Gbps)",
+    "no": "Hastighetstype er (Mbps/Gbps)",
+    "es": "Tipo de velocidad es (Mbps/Gbps)",
+    "da": "Hastighedstype er (Mbps/Gbps)",
+    "ru": "Тип скорости (Mbps/Gbps)",
+    "pl": "Typ prędkości (Mbps/Gbps)",
+    "ko": "속도 유형은 (Mbps/Gbps)",
+    "ar": "نوع السرعة هو (ميغابت في الثانية/جيجابت في الثانية)"
+  },
+  "titleFormatted": {
+    "en": "Speedtype !{{is|is not}} [[speedtype]]",
+    "nl": "Snelheidstype is !{{is|is not}} [[speedtype]]",
+    "de": "Geschwindigkeitstyp !{{ist|ist nicht}} [[speedtype]]",
+    "fr": "Type de vitesse !{{est|n'est pas}} [[speedtype]]",
+    "it": "Tipo di velocità !{{è|non è}} [[speedtype]]",
+    "sv": "Hastighetstyp !{{är|är inte}} [[speedtype]]",
+    "no": "Hastighetstype !{{er|er ikke}} [[speedtype]]",
+    "es": "Tipo de velocidad !{{es|no es}} [[speedtype]]",
+    "da": "Hastighedstype !{{er|er ikke}} [[speedtype]]",
+    "ru": "Тип скорости !{{является|не является}} [[speedtype]]",
+    "pl": "Typ prędkości !{{jest|nie jest}} [[speedtype]]",
+    "ko": "속도 유형 !{{입니다|아닙니다}} [[speedtype]]",
+    "ar": "نوع السرعة !{{هو|ليس}} [[speedtype]]"
+  },
+  "args": [
+    {
+      "name": "speedtype",
+      "type": "dropdown",
+      "title": {
+        "en": "Speed type (Mbps/Gbps)",
+        "nl": "Snelheidstype (Mbps/Gbps)",
+        "de": "Geschwindigkeitstyp (Mbps/Gbps)",
+        "fr": "Type de vitesse (Mbps/Gbps)",
+        "it": "Tipo di velocità (Mbps/Gbps)",
+        "sv": "Hastighetstyp (Mbps/Gbps)",
+        "no": "Hastighetstype (Mbps/Gbps)",
+        "es": "Tipo de velocidad (Mbps/Gbps)",
+        "da": "Hastighedstype (Mbps/Gbps)",
+        "ru": "Тип скорости (Mbps/Gbps)",
+        "pl": "Typ prędkości (Mbps/Gbps)",
+        "ko": "속도 유형 (Mbps/Gbps)",
+        "ar": "نوع السرعة (ميغابت في الثانية/جيجابت في الثانية)"
+      },
+      "values": [
+        {
+          "id": "mbps",
+          "title": {
+            "en": "Mbps",
+            "nl": "Mbps",
+            "de": "Mbps",
+            "fr": "Mbps",
+            "it": "Mbps",
+            "sv": "Mbps",
+            "no": "Mbps",
+            "es": "Mbps",
+            "da": "Mbps",
+            "ru": "Mbps",
+            "pl": "Mbps",
+            "ko": "Mbps",
+            "ar": "ميغابت في الثانية"
+          }
+        },
+        {
+          "id": "gbps",
+          "title": {
+            "en": "Gbps",
+            "nl": "Gbps",
+            "de": "Gbps",
+            "fr": "Gbps",
+            "it": "Gbps",
+            "sv": "Gbps",
+            "no": "Gbps",
+            "es": "Gbps",
+            "da": "Gbps",
+            "ru": "Gbps",
+            "pl": "Gbps",
+            "ko": "Gbps",
+            "ar": "جيجابت في الثانية"
+          }
+        }
+      ]
+    }
+  ],
+  "platforms": ["local"]
+}

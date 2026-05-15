@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Upload speed is above",
+    "nl": "Uploadsnelheid is hoger dan",
+    "de": "Upload-Geschwindigkeit ist über",
+    "fr": "La vitesse de téléversement est supérieure à",
+    "it": "La velocità di upload è superiore a",
+    "sv": "Uppladdningshastigheten är över",
+    "no": "Opplastingshastigheten er over",
+    "es": "La velocidad de subida es superior a",
+    "da": "Uploadhastigheden er over",
+    "ru": "Скорость выгрузки выше",
+    "pl": "Prędkość wysyłania jest powyżej",
+    "ko": "업로드 속도가 초과되었습니다",
+    "ar": "سرعة الرفع فوق"
+  },
+  "titleFormatted": {
+    "en": "Upload speed is above [[speed]] [[speedType]]",
+    "nl": "Uploadsnelheid is hoger dan [[speed]] [[speedType]]",
+    "de": "Upload-Geschwindigkeit ist über [[speed]] [[speedType]]",
+    "fr": "La vitesse de téléversement est supérieure à [[speed]] [[speedType]]",
+    "it": "La velocità di upload è superiore a [[speed]] [[speedType]]",
+    "sv": "Uppladdnings hastigheten är över [[speed]] [[speedType]]",
+    "no": "Opplastingshastigheten er over [[speed]] [[speedType]]",
+    "es": "La velocidad de subida es superior a [[speed]] [[speedType]]",
+    "da": "Uploadhastigheden er over [[speed]] [[speedType]]",
+    "ru": "Скорость выгрузки выше [[speed]] [[speedType]]",
+    "pl": "Prędkość wysyłania jest powyżej [[speed]] [[speedType]]",
+    "ko": "업로드 속도가 초과되었습니다 [[speed]] [[speedType]]",
+    "ar": "سرعة الرفع فوق [[speed]] [[speedType]]"
+  },
+  "args": [
+    {
+      "name": "speed",
+      "type": "number",
+      "title": {
+        "en": "Upload speed",
+        "nl": "Uploadsnelheid",
+        "de": "Upload-Geschwindigkeit",
+        "fr": "Vitesse de téléversement",
+        "it": "Velocità di upload",
+        "sv": "Uppladdningshastighet",
+        "no": "Opplastingshastighet",
+        "es": "Velocidad de subida",
+        "da": "Uploadhastighed",
+        "ru": "Скорость выгрузки",
+        "pl": "Prędkość wysyłania",
+        "ko": "업로드 속도",
+        "ar": "سرعة الرفع"
+      },
+      "example": 100
+    },
+     {
+      "name": "speedType",
+      "type": "dropdown",
+      "title": {
+        "en": "Speed type (Mbps/Gbps)",
+        "nl": "Snelheidstype (Mbps/Gbps)",
+        "de": "Geschwindigkeitstyp (Mbps/Gbps)",
+        "fr": "Type de vitesse (Mbps/Gbps)",
+        "it": "Tipo di velocità (Mbps/Gbps)",
+        "sv": "Hastighetstyp (Mbps/Gbps)",
+        "no": "Hastighetstype (Mbps/Gbps)",
+        "es": "Tipo de velocidad (Mbps/Gbps)",
+        "da": "Hastighedstype (Mbps/Gbps)",
+        "ru": "Тип скорости (Mbps/Gbps)",
+        "pl": "Typ prędkości (Mbps/Gbps)",
+        "ko": "속도 유형 (Mbps/Gbps)",
+        "ar": "نوع السرعة (ميغابت في الثانية/جيجابت في الثانية)"
+      },
+      "values": [
+        {
+          "id": "mbps",
+          "title": {
+            "en": "Mbps",
+            "nl": "Mbps",
+            "de": "Mbps",
+            "fr": "Mbps",
+            "it": "Mbps",
+            "sv": "Mbps",
+            "no": "Mbps",
+            "es": "Mbps",
+            "da": "Mbps",
+            "ru": "Mbps",
+            "pl": "Mbps",
+            "ko": "Mbps",
+            "ar": "ميغابت في الثانية"
+          }
+        },
+        {
+          "id": "gbps",
+          "title": {
+            "en": "Gbps",
+            "nl": "Gbps",
+            "de": "Gbps",
+            "fr": "Gbps",
+            "it": "Gbps",
+            "sv": "Gbps",
+            "no": "Gbps",
+            "es": "Gbps",
+            "da": "Gbps",
+            "ru": "Gbps",
+            "pl": "Gbps",
+            "ko": "Gbps",
+            "ar": "جيجابت في الثانية"
+          }
+        }
+      ]
+    }
+  ],
+  "platforms": ["local"]
+}

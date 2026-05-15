@@ -1,0 +1,1 @@
+Fast.com är ett kostnadsfritt och reklamfritt verktyg för internethastighetstest, skapat av Netflix. Det mäter automatiskt din aktuella nedladdningshastighet så att du snabbt kan se om din internetleverantör (ISP) levererar den bandbredd du betalar för, särskilt för videostreaming.
