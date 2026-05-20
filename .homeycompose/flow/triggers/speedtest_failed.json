@@ -1,0 +1,55 @@
+{
+  "id": "speedtest_failed",
+  "title": {
+    "en": "Speedtest failed",
+    "nl": "Snelheidstest mislukt",
+    "de": "Geschwindigkeitstest fehlgeschlagen",
+    "fr": "Test de vitesse échoué",
+    "it": "Test di velocità fallito",
+    "sv": "Hastighetstest misslyckades",
+    "no": "Hastighetstest mislyktes",
+    "es": "Prueba de velocidad fallida",
+    "da": "Hastighedstest mislykkedes",
+    "ru": "Тест скорости не удался",
+    "pl": "Test prędkości nie powiódł się",
+    "ko": "속도 테스트 실패",
+    "ar": "فشل اختبار السرعة"
+  },
+  "titleFormatted": {
+    "en": "Speedtest failed",
+    "nl": "Snelheidstest mislukt",
+    "de": "Geschwindigkeitstest fehlgeschlagen",
+    "fr": "Test de vitesse échoué",
+    "it": "Test di velocità fallito",
+    "sv": "Hastighetstest misslyckades",
+    "no": "Hastighetstest mislyktes",
+    "es": "Prueba de velocidad fallida",
+    "da": "Hastighedstest mislykkedes",
+    "ru": "Тест скорости не удался",
+    "pl": "Test prędkości nie powiódł się",
+    "ko": "속도 테스트 실패",
+    "ar": "فشل اختبار السرعة"
+  },
+  "tokens": [
+    {
+      "name": "reason",
+      "type": "string",
+      "title": {
+        "en": "Reason",
+        "nl": "Reden",
+        "de": "Grund",
+        "fr": "Raison",
+        "it": "Motivo",
+        "sv": "Orsak",
+        "no": "Årsak",
+        "es": "Razón",
+        "da": "Årsag",
+        "ru": "Причина",
+        "pl": "Powód",
+        "ko": "이유",
+        "ar": "السبب"
+      },
+      "example": "Timeout / No internet connection / Certificate error / Connection error"
+    }
+  ]
+}
