@@ -25,5 +25,8 @@
   },
   "1.3.3": {
     "en": "FIX: Speedtest failed card was not properly set"
+  },
+  "1.3.4": {
+    "en": "FIX: translations"
   }
 }
